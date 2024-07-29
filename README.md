@@ -4,7 +4,7 @@ The Degen Token is a program is a shows the application of redeeming, transferri
 
 ## Description
 
-The Degen Token (DGN) is an ERC20 token created for enabling users to to mint, transfer, redeem, and manage their currency and rewards.
+The Degen Token (DGN) is an ERC20 token created to enable users to to mint, transfer, redeem, and manage their currency and rewards.
 
 Features:
 
@@ -15,15 +15,9 @@ Features:
 5. Burning Tokens
 
 ## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
-To run this program, you can use Remix, an online Solidity IDE.
+You can use Remix, an online Solidity IDE to run this program.
 
 Go to the Remix website at https://remix.ethereum.org/ then create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Before compiling, copy and paste this code:
 
